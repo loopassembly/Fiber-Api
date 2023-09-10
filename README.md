@@ -7,14 +7,9 @@
 - [@loopassembly](https://www.github.com/loopassembly)
 
 
-## 🛠 Tech stack 
+## 🛠 Tech stack :
 - lang: GO 
 - framework: GO-fiber, Gorm
-
-
-## Demo7
-
-
 
 
 ## Contributing
