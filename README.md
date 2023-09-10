@@ -12,7 +12,7 @@
 - framework: GO-fiber, Gorm
 
 
-## Demo
+## Demo7
 
 
 
@@ -31,10 +31,6 @@ Install my-project with npm
   git cone https://github.com/loopassembly/Fiber-Api.git
   cd Fiber-Api
   go mod download
-  
-
-Uploading VID-20230910-WA0018.mp4…
-
-go run main.go
+  go run main.go
 ```
     
