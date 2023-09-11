@@ -5,7 +5,7 @@
 ## Authors
 
 - [@loopassembly](https://www.github.com/loopassembly)
-- 
+
 ## Demo:
 
 
